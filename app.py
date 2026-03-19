@@ -2,7 +2,7 @@ import requests
 import streamlit as st
  
 # ── Config ──
-API_BASE = "https://YOUR_RAILWAY_URL.up.railway.app"  # ← Railway URL yahan lagao
+API_BASE = "https://movie-reco-backend-production-c557.up.railway.app" # ← Railway URL yahan lagao
  
 st.set_page_config(page_title="🎬 Movie Recommender", page_icon="🎬", layout="wide")
  
